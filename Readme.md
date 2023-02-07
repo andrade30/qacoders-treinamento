@@ -6,5 +6,5 @@
 ## Mostrando as diferenças com o git diff
 ## Mostrando mais uma diferença
 <h1>Alterando o arquivo pela segunda vez</h1>
-<h2>Alteração realizada pela Confiabilidade</h2>
+<h2>Alteração realizada pela Confiabilidade 2</h2>
 >>>>>>> 2b4e68136d0e404f69382380eb17382c8dc0d207
